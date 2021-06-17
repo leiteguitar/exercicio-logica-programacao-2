@@ -1,0 +1,13 @@
+C:\Users\Vinny\source\repos\Exercicio-ReajustSalario\bin\Debug\netcoreapp3.1\Exercicio-ReajustSalario.exe
+C:\Users\Vinny\source\repos\Exercicio-ReajustSalario\bin\Debug\netcoreapp3.1\Exercicio-ReajustSalario.deps.json
+C:\Users\Vinny\source\repos\Exercicio-ReajustSalario\bin\Debug\netcoreapp3.1\Exercicio-ReajustSalario.runtimeconfig.json
+C:\Users\Vinny\source\repos\Exercicio-ReajustSalario\bin\Debug\netcoreapp3.1\Exercicio-ReajustSalario.runtimeconfig.dev.json
+C:\Users\Vinny\source\repos\Exercicio-ReajustSalario\bin\Debug\netcoreapp3.1\Exercicio-ReajustSalario.dll
+C:\Users\Vinny\source\repos\Exercicio-ReajustSalario\bin\Debug\netcoreapp3.1\Exercicio-ReajustSalario.pdb
+C:\Users\Vinny\source\repos\Exercicio-ReajustSalario\obj\Debug\netcoreapp3.1\Exercicio-ReajustSalario.csprojAssemblyReference.cache
+C:\Users\Vinny\source\repos\Exercicio-ReajustSalario\obj\Debug\netcoreapp3.1\Exercicio-ReajustSalario.AssemblyInfoInputs.cache
+C:\Users\Vinny\source\repos\Exercicio-ReajustSalario\obj\Debug\netcoreapp3.1\Exercicio-ReajustSalario.AssemblyInfo.cs
+C:\Users\Vinny\source\repos\Exercicio-ReajustSalario\obj\Debug\netcoreapp3.1\Exercicio-ReajustSalario.csproj.CoreCompileInputs.cache
+C:\Users\Vinny\source\repos\Exercicio-ReajustSalario\obj\Debug\netcoreapp3.1\Exercicio-ReajustSalario.dll
+C:\Users\Vinny\source\repos\Exercicio-ReajustSalario\obj\Debug\netcoreapp3.1\Exercicio-ReajustSalario.pdb
+C:\Users\Vinny\source\repos\Exercicio-ReajustSalario\obj\Debug\netcoreapp3.1\Exercicio-ReajustSalario.genruntimeconfig.cache
